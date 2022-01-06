@@ -145,7 +145,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `Like magic! Your ${CONFIG.NFT_NAME} is now yours! go visit NFTrade.com to view it.`
+          `Like magic! Your ${CONFIG.NFT_NAME} is now yours! go visit Artion.io to view it.`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
