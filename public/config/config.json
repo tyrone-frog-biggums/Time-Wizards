@@ -1,10 +1,10 @@
 {
   "CONTRACT_ADDRESS": "0x80637F1644E860f6C3A8aD208a4cE40A839Ba475",
-  "SCAN_LINK": "https://testnet.snowtrace.io/token/0x80637F1644E860f6C3A8aD208a4cE40A839Ba475",
+  "SCAN_LINK": "https://snowtrace.io/token/0x80637F1644E860f6C3A8aD208a4cE40A839Ba475",
   "NETWORK": {
     "NAME": "Avalanche",
     "SYMBOL": "AVAX",
-    "ID": 137
+    "ID": 43114
   },
   "NFT_NAME": "Time Wizards NFT",
   "SYMBOL": "TWZRD",
