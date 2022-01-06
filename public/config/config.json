@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x80637F1644E860f6C3A8aD208a4cE40A839Ba475",
   "SCAN_LINK": "https://snowtrace.io/address/0x80637f1644e860f6c3a8ad208a4ce40a839ba475",
   "NETWORK": {
-    "NAME": "Avalanche",
+    "NAME": "Avalanche C-Chain",
     "SYMBOL": "AVAX",
     "ID": 43114
   },
