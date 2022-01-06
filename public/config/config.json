@@ -1,16 +1,16 @@
 {
   "CONTRACT_ADDRESS": "0x80637F1644E860f6C3A8aD208a4cE40A839Ba475",
-  "SCAN_LINK": "https://snowtrace.io/address/0x80637f1644e860f6c3a8ad208a4ce40a839ba475",
+  "SCAN_LINK": "https://testnet.ftmscan.com/address/0x80637f1644e860f6c3a8ad208a4ce40a839ba475",
   "NETWORK": {
-    "NAME": "Avalanche C-Chain",
-    "SYMBOL": "AVAX",
-    "ID": 43114
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 4002
   },
   "NFT_NAME": "Time Wizards NFT",
   "SYMBOL": "TWZRD",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "DISPLAY_COST": 3,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "NFTrade",
   "MARKETPLACE_LINK": "https://nftrade.com/assets/avalanche/0x80637F1644E860f6C3A8aD208a4cE40A839Ba475",
