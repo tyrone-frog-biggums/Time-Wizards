@@ -104,6 +104,7 @@ function App() {
   const [CONFIG, SET_CONFIG] = useState({
     CONTRACT_ADDRESS: "",
     SCAN_LINK: "",
+    DISCORD: "",
     NETWORK: {
       NAME: "",
       SYMBOL: "",
@@ -247,6 +248,9 @@ function App() {
             >
               <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
                 View on FTM Scan
+              </StyledLink>
+              <StyledLink target={"_blank"} href={CONFIG.DISCORD}>
+                Join Discord
               </StyledLink>
             </s.TextDescription>
             <span
