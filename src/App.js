@@ -249,6 +249,7 @@ function App() {
               <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
                 View on FTM Scan
               </StyledLink>
+              <s.SpacerXSmall />
               <StyledLink target={"_blank"} href={CONFIG.DISCORD}>
                 Join Discord
               </StyledLink>
