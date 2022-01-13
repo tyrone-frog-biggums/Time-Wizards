@@ -221,7 +221,14 @@ function App() {
               border: "4px dashed var(--secondary)",
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
-          >
+          ><s.TextDescription
+          style={{
+            textAlign: "center",
+            color: "var(--accent-text)",
+          }}
+        >
+          * Number of wizards minted will show zero if a wallet is not connected
+        </s.TextDescription>
             <s.TextTitle
               style={{
                 textAlign: "center",
@@ -239,7 +246,7 @@ function App() {
               }}
             >
               <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
-                {truncate(CONFIG.CONTRACT_ADDRESS, 15)}
+                View on FTM Scan
               </StyledLink>
             </s.TextDescription>
             <span
@@ -255,7 +262,7 @@ function App() {
                   margin: "5px",
                 }}
               >
-                Tokenomics
+                Wizardnomics
               </StyledButton>
               <StyledButton
                 style={{
