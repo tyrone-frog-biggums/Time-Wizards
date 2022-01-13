@@ -228,7 +228,7 @@ function App() {
             color: "var(--accent-text)",
           }}
         >
-          * Number of wizards minted will show zero if a wallet is not connected
+          * Number of Time Wizards minted will show zero if a wallet is not connected
         </s.TextDescription>
             <s.TextTitle
               style={{
