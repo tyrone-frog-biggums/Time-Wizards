@@ -261,6 +261,16 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
+                  window.open("/config/tw_airdrops.pdf", "_blank");
+                }}
+                style={{
+                  margin: "5px",
+                }}
+              >
+                Airdrop Info
+              </StyledButton>
+              <StyledButton
+                onClick={(e) => {
                   window.open("/config/roadmap.pdf", "_blank");
                 }}
                 style={{
